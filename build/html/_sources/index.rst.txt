@@ -13,6 +13,7 @@ Contents:
    
 
   sample
+  irony-mode_windows_visualstudio_build
 
 Indices and tables
 ==================
